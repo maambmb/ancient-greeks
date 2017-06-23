@@ -1,6 +1,8 @@
 ancient-greeks
 =============
 
+A corpus of ancient greek names. Useful for dynamically naming a changing set of resources.
+
 ## Usage
 
 Get a list of all greek names
